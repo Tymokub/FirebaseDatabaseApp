@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "430084859336",
+    "firebase_url": "https://mim-firebase-516f2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mim-firebase-516f2",
+    "storage_bucket": "mim-firebase-516f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430084859336:android:6f0c1f4ea3fb0f33a6ccfd",
+        "android_client_info": {
+          "package_name": "com.example.mim_firebase_kubica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430084859336-gsrl195ff9q78m2716ou49l7r4skf4o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB54Yu_8KzYFXsrr7E_ED5vurdaoEXCB3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430084859336-gsrl195ff9q78m2716ou49l7r4skf4o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
